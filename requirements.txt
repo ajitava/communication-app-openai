@@ -1,0 +1,6 @@
+SpeechRecognition==3.10.3
+langchain==0.1.16
+pytesseract==0.3.10
+streamlit==1.33.0
+pillow==10.3.0
+streamlit-extras==0.4.2
